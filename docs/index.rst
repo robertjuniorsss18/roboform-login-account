@@ -3,7 +3,7 @@ How to Login Roboform Account Easily?
 
 In today’s digital world, managing passwords can be a real challenge. With countless online accounts, it’s no surprise that remembering passwords for all of them can feel like an overwhelming task. This is where a password manager like **RoboForm** comes in. RoboForm offers a secure and convenient way to store and manage your passwords, logins, and other sensitive data.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
